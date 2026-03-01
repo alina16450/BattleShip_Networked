@@ -101,7 +101,7 @@ UDP: 127.0.0.1:8080
 Start the Client
 Open Qt project
 Adjust server IP if needed
-Run two instances to simulate two players, or run the second instance on a different pc connected to the same network (update TCP and UDP binding ips as needed for this).
+Run two instances to simulate two players, or run the second instance on a different pc connected to the same network (update TCP and UDP ips for both server and client as needed for this).
 Limitations
 
 Supports only 1v1 matches
